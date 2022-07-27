@@ -1,0 +1,15 @@
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\bin\Debug\net6.0\SingletonDemo.exe
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\bin\Debug\net6.0\SingletonDemo.deps.json
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\bin\Debug\net6.0\SingletonDemo.runtimeconfig.json
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\bin\Debug\net6.0\SingletonDemo.dll
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\bin\Debug\net6.0\SingletonDemo.pdb
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\obj\Debug\net6.0\SingletonDemo.csproj.AssemblyReference.cache
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\obj\Debug\net6.0\SingletonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\obj\Debug\net6.0\SingletonDemo.AssemblyInfoInputs.cache
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\obj\Debug\net6.0\SingletonDemo.AssemblyInfo.cs
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\obj\Debug\net6.0\SingletonDemo.csproj.CoreCompileInputs.cache
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\obj\Debug\net6.0\SingletonDemo.dll
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\obj\Debug\net6.0\refint\SingletonDemo.dll
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\obj\Debug\net6.0\SingletonDemo.pdb
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\obj\Debug\net6.0\SingletonDemo.genruntimeconfig.cache
+C:\StringLengthFinder\SingletonDemo\SingletonDemo\obj\Debug\net6.0\ref\SingletonDemo.dll
